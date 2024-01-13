@@ -23,6 +23,10 @@ I'll be using the following stack:
 - huggingface for data and benchmarks
 - zetascale for training and testing
 
+## Setup
+
 ## References
 
 [Pytorch tutorial](https://pytorch.org/tutorials/beginner/basics/intro.html)
+[torchtext](https://pytorch.org/text/stable/index.html)
+[HF Tansformers book](https://transformersbook.com/)
